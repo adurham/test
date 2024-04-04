@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "adurham",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/adurham/test",
+        "githubUri": "https://github.com/adurham/test",
+        "license": "apache-2.0",
+        "lastUpdated": "1712245379533",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
