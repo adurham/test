@@ -1,4 +1,4 @@
-Flow com.amd_e.lab.test
+Flow com.amd_e.lab.auth
      Basepath ""
 // Create new authentication service instance
 authService = Call io.jans.as.server.service.AuthenticationService#class 
