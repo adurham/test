@@ -38,9 +38,10 @@
 					"finishMode": "withVariable",
 					"nodeIcon": "material-symbols:line-end-square-rounded",
 					"displayName": "Return Username"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 710.8055688656459,
@@ -87,7 +88,8 @@
 				"handles": [
 					"Agama-when-Node-fd34f6d4-ad32-44c9-9290-bb5d7ad788bc.FAILURE",
 					"Agama-when-Node-fd34f6d4-ad32-44c9-9290-bb5d7ad788bc.SUCCESS"
-				]
+				],
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -134,7 +136,8 @@
 						}
 					],
 					"nodeIcon": "material-symbols:equal"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -184,7 +187,8 @@
 					],
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authResult.success"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -505,7 +509,7 @@
 					"timeout": "",
 					"inputs": "",
 					"configs": "",
-					"flowname": "com.amd-e.lab.test"
+					"flowname": "com.amd_e.lab.test"
 				},
 				"skake": true
 			},
