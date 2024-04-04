@@ -509,7 +509,7 @@
 					"timeout": "",
 					"inputs": "",
 					"configs": "",
-					"flowname": "com.amd_e.lab.test"
+					"flowname": "com.amd_e.lab.auth"
 				},
 				"skake": true
 			},
@@ -517,7 +517,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
@@ -759,8 +759,8 @@
 		}
 	],
 	"viewport": {
-		"x": 157.66239710027003,
-		"y": 232.6329901223528,
+		"x": 181.66239710027003,
+		"y": 207.63299012235282,
 		"zoom": 0.5
 	}
 }
