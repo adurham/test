@@ -13,6 +13,9 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "com.amd-e.lab.test": {}
+        },
+        "name": "test"
     }
 }
